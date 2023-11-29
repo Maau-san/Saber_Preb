@@ -1,0 +1,56 @@
+[
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "Un bloque de hielo seco, CO2 sólido, cambia del estado sólido al gaseoso en condiciones ambientales. Este cambio de estado determina un cambio en la densidad del CO2. Teniendo en cuenta la información anterior, tras el cambio de estado, la densidad del CO2 disminuye porque",
+        "respuesta":"La distancia entre partículas y el volumen aumentan." ,
+        "incorrecta1":"La masa de CO2 disminuye",
+        "incorrecta2": "La distancia entre partículas disminuye.",
+        "incorrecta3": "La distancia entre partículas aumenta y la masa disminuye.",
+        "imagen": ""
+    },
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "Una estudiante calentó en una estufa, durante un minuto, un litro de agua que inicialmente estaba a 15 °C. La temperatura final del agua fue 17 °C. Si ahora calienta dos litros de agua que inicialmente están a 15 °C, en la misma estufa durante un minuto, se espera que la temperatura final de los dos litros de agua sea",
+        "respuesta": "16 °C",
+        "incorrecta1":"19 °C" ,
+        "incorrecta2": "17 °C",
+        "incorrecta3": "15 °C",
+        "imagen": ""
+    },
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "En las células animales, los lisosomas son los organelos encargados de digerir con enzimas los nutrientes que la célula consume. Si todos los lisosomas de una célula se rompieron, ¿Que le sucederia inicialmente a célula?",
+        "respuesta": "Se degradarían moléculas en su interior.",
+        "incorrecta1":"Perdería toda el agua del citoplasma." ,
+        "incorrecta2": "No habría respiración celular",
+        "incorrecta3": "No se formarían proteínas.",
+        "imagen": ""
+    },
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "En una especie de pato se pueden encontrar individuos con cuello corto e individuos con cuellos largo. En esta especie se encuentran una mayor cantidad de patos con cuello largo. En una experimiento se aparearon una hemrbe y un macho con cuello largo; de sus hijos 3/4 son cuellos largo y 1/4 son cuello corto. De los genotipos de los padres puede afirmarse que",
+        "respuesta": "Ambos padres eran heterocigotos.",
+        "incorrecta1":"El macho era heterocigoto y la hembra era homocigoto recesivo." ,
+        "incorrecta2": "El macho era heterocigoto y la hembra era homocigoto dominante",
+        "incorrecta3": "Ambos padres eran homocigotos dominantes",
+        "imagen": ""
+    },
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "La polilla grande de la cera es un patógeno que mata las larvas de las abejas y causa grandes pérdidas económicas a los apicultores de todo el mundo,por la gran cantidad de panales que destruye. Según la información anterior, ¿Cuál de las siguientes preguntas está relacionada con la problemática descrita y puede resolverse mediante una investigación en el campo de las ciencias naturales?",
+        "respuesta": "¿En qué etapa del ciclo biológico la polilla afecta los panales de las abejas?",
+        "incorrecta1":"¿Cómo se afecta la economía de los apicultores por causa de la polilla?",
+        "incorrecta2": "¿Cuáles son las características morfológicas de las abejas usadas en la apicultura",
+        "incorrecta3": "¿Cuánto invierten al año los apicultores para el control de la polilla en la región?",
+        "imagen": ""
+    },
+    {
+        "categoria": "Ciencias naturales",
+        "pregunta": "Unos estudiantes analizaron el agua de un río y encontraron que contenía altos niveles de cadmio y plomo, que son metales tóxicos. Al estudiar el origen de la contaminación descubrieron que los metales provenían de filtraciones de la descomposición de pilas en un botadero de basura cercano. Los estudiantes proponen que a futuro se deberían separar las pilas del resto de los desechos en contenedores completamente aislados. Con base en la información anterior, se puede afirmar que la propuesta de los estudiantes es",
+        "respuesta": "Apropiada, porque se evitaría la presencia de metales pesados en el agua.",
+        "incorrecta1":"Inapropiada, porque es mejor desarmar las pilas y luego desecharlas." ,
+        "incorrecta2": "Apropiada, porque luego se podrían reutilizar las pilas desechadas.",
+        "incorrecta3": "Inapropiada, porque es mejor quemarlas ya que no entrarían en contacto con el agua.",
+        "imagen": ""
+    }
+]

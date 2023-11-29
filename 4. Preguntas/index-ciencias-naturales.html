@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Saber Prep</title>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="img/iconsaberprep.png">
+</head>
+
+<body>
+  <h1 id="timer">TIEMPO!</h1>
+  <script>
+    // Set the duration of the timer to 90 seconds (1 minute and 30 seconds)
+    var duration = 1500;
+    var timer = document.getElementById("timer");
+
+    // Start the timer
+    var interval = setInterval(function () {
+      // Decrease the time remaining by 1
+      duration--;
+
+      // Convert remaining seconds to minutes and seconds
+      var minutes = Math.floor(duration / 60);
+      var seconds = duration % 60;
+
+      // Update the timer display
+      timer.innerHTML = (minutes > 0 ? minutes + " min " : "") + seconds + " seg";
+
+      // Check if the duration has been reached
+      if (duration <= 0) {
+        clearInterval(interval);
+        timer.innerHTML = "SE ACABO EL TIEMPO";
+      }
+    }, 1000); // Update the timer every second
+  </script>
+
+  <div class="contenedor">
+    <div class="puntaje" id="puntaje"></div>
+    <div class="encabezado">
+      <div class="categoria" id="categoria">
+      </div>
+      <div class="numero" id="numero"></div>
+      <div class="pregunta" id="pregunta">
+      </div>
+      <img src="#" class="imagen" id="imagen">
+    </div>
+    <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+    <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+    <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+    <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+
+    <script src="index.js"></script>
+  </div>
+
+</body>
+
+</html>
